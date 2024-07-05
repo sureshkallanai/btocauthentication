@@ -1,0 +1,53 @@
+.custom-text-color {
+    color: #346cac;
+}
+
+.custom-bg-color {
+    background: #bcd4e4;
+}
+
+.container-fluid {
+    height: 80%;
+    overflow-x: hidden;
+}
+
+.col-12 {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    background: #bcd4e4;
+}
+
+.body {
+    flex: 1 1 auto;
+}
+
+.footer {
+    position: sticky;
+    bottom: 0;
+    background: #bcd4e4;
+}
+
+.styleP {
+    color: #346cac;
+    font-size: large;
+    font-weight: 500;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.styleQ {
+    font-size: large;
+    font-weight: 600;
+}
+
+.styleR {
+    font-size: xx-large;
+    font-weight: 500;
+}
+

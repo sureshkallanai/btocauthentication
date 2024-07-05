@@ -1,0 +1,29 @@
+<main class="main">  
+    <div class="container">
+      <div class="row">    
+        <div class="col-7">    
+        </div>
+        <div class="col-5">    
+          <form (submit)="SignIn(SignInForm)" #SignInForm="ngForm"> 
+            <div class="form-group">
+              <div class="row"><label for="fgt" style="text-align:center;margin-top: 5%">Sign In</label></div>            
+              <div class="row"><label for="fgt" style="text-align:center;margin-top: 3%">Sign In With Your Email</label></div>
+              <input class="form-control" [(ngModel)]="userLogin.Emailid"  placeholder="Enter Your Email ID" style="margin-top: 5%" name="Emailid" ngModel>                       
+            </div>
+            <div class="form-group">  
+              <input type="password" class="form-control" [(ngModel)]="userLogin.password" placeholder="Password" style="margin-top: 5%" name="password" ngModel>           
+              <div class="row">
+                <label  [hidden]="lblHidden" ng-show="lblVisibility" style="color:red;text-align:center;margin-top: 3%;">Invalid UserName Or Password</label>
+                <label for="fgt" style="text-align:center;margin-top: 3%">Forget Password?</label></div>                   
+            </div>
+            <div class="row"><div class="col-5">                
+            </div><div class="col-7">
+              <button type="button" type="submit" class="btn btn-default" style="background-color:lightcyan;text-align:center;margin-top: 5%">SignIn</button>
+            </div>
+          </div>
+           </form>
+        </div>      
+      </div>
+    </div>  
+  </main>
+
