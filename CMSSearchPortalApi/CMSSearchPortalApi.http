@@ -1,0 +1,6 @@
+@CMSSearchPortalApi_HostAddress = http://localhost:5025
+
+GET {{CMSSearchPortalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
