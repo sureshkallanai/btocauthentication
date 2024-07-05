@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TodoListClient
+build_property.RootNamespace = TodoListClient
+build_property.ProjectDir = D:\users\suresh\source\repos\azure-ad-b2c-authentication-tutorial-main\azure-ad-b2c-authentication-tutorial-main\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\users\suresh\source\repos\azure-ad-b2c-authentication-tutorial-main\azure-ad-b2c-authentication-tutorial-main\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/TodoList/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0xpc3RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/TodoList/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0xpc3RcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/TodoList/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0xpc3RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/TodoList/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0xpc3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/TodoList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0xpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/suresh/source/repos/azure-ad-b2c-authentication-tutorial-main/azure-ad-b2c-authentication-tutorial-main/Client/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
